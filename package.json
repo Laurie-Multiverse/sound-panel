@@ -1,0 +1,23 @@
+{
+  "name": "sound panel",
+  "version": "1.0.0",
+  "description": "## To run your project: ### ### npm run start-dev ###",
+  "main": "index.js",
+  "scripts": {
+    "start-dev": "parcel src/index.html --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "parcel": "^2.8.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
